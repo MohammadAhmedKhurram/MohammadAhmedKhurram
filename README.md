@@ -4,6 +4,8 @@
 
 I'm a passionate developer focused on building full-stack applications and leveraging AI to create real-world solutions. Currently, I'm exploring various domains, including web development, cloud, and AI, and continuously improving my coding skills.
 
+![1](https://github.com/user-attachments/assets/c19d9f1e-98fc-41df-b357-26183435607d)
+
 ### 🚀 About Me:
 - 💻 I’m diving deep into **Next.js** and front-end development in the second quarter of the **Governor Sindh IT Initiative**.
 - 🏅 Selected from **500,000+ students** to enroll in this prestigious program, and I'm proud to be one of the **15,236** students who successfully cleared the first quarter.
