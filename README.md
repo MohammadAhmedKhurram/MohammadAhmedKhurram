@@ -1,28 +1,45 @@
-## 👋 Hey there, I'm Muhammad Ahmed!
+<h1 align="center">Hi, I'm Muhammad Ahmed 👋</h1>
+<p align="center">
+  🚀 Frontend & AI Enthusiast | 🎯 Top 0.3% at GSIIC | 🛠️ Builder of Real-World Web Solutions  
+</p>
 
-**Dedicated to AI | Learning to code and build innovative solutions.**
+---
 
-I'm a passionate developer focused on building full-stack applications and leveraging AI to create real-world solutions. Currently, I'm exploring various domains, including web development, cloud, and AI, and continuously improving my coding skills.
+### 👨‍💻 About Me
 
-![1](https://github.com/user-attachments/assets/c19d9f1e-98fc-41df-b357-26183435607d)
+🎓 Selected among 1,500 out of 500,000+ students for Section A of Q3 in the **Governor Sindh IT Initiative**, mentored personally by **Sir Zia Khan**  
+🛠️ Hands-on experience building real-world projects using **Next.js**, **Tailwind CSS**, **TypeScript**, and **Sanity CMS**  
+🤖 Currently mastering **Python** and **Agentic AI** to create intelligent automation systems  
+🌱 Always improving, always building, always learning
 
-### 🚀 About Me:
-- 💻 I’m diving deep into **Next.js** and front-end development in the second quarter of the **Governor Sindh IT Initiative**.
-- 🏅 Selected from **500,000+ students** to enroll in this prestigious program, and I'm proud to be one of the **15,236** students who successfully cleared the first quarter.
-- 👨‍💻 I’m always exploring new ways to enhance my projects and skills. Check out my repositories to see my work.
+---
 
-### 🔧 Technologies & Tools:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 🧠 Tech Stack
 
-### 🛠️ Projects:
-I’ve built several CLI projects that showcase my ability to solve problems using efficient, clean code. You can find them in my repositories. Each project is designed to help me sharpen my skills, and I’d love your feedback!
+- 💡 Languages: `TypeScript`, `HTML5`, `CSS3`, `Python`
+- 🌐 Frontend: `Next.js`, `Tailwind CSS`
+- 📦 CMS: `Sanity.io`
+- ⚙️ Tools: `Git`, `GitHub`, `Vercel`, `npm`, `Figma`
 
-### 🌐 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-1581a0279/)
-- [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~ahmedkhurram)
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🛋️ [Ecommerce Marketplace](https://github.com/yourusername/ecommerce-marketplace) | Hackathon project – dynamic furniture marketplace using GROQ & Sanity CMS | Next.js, Tailwind CSS, TypeScript, Sanity |
+| 📝 [Blog Website](https://github.com/yourusername/blog-site) | Single-author blog with dynamic post management & custom design | Next.js, Tailwind CSS, Sanity, GROQ |
+| 🌐 [Personal Portfolio](https://github.com/yourusername/portfolio) | My first website showcasing all projects & skills | Next.js, Tailwind CSS |
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: **ahmedkurram1000@gmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/-muhammad-ahmed/)  
+- 💻 [GitHub](https://github.com/MohammadAhmedKhurram)
+
+---
+
+> “With a strong foundation and ongoing learning, I’m focused on turning real-world challenges into clean, functional web experiences.”  
+> — *Muhammad Ahmed*
