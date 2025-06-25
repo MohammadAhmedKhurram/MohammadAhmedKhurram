@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Muhammad Ahmed 👋</h1>
 <p align="center">
-  🚀 Frontend & AI Enthusiast | 🎯 Top 0.3% at GSIIC | 🛠️ Builder of Real-World Web Solutions  
+  🚀 Motivated Developer & Dedicated to AI | 🎯 Top 0.3% at GSIIC | 🛠️ Builder of Real-World Web Solutions  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 Selected among 1,500 out of 500,000+ students for Section A of Q3 in the **Governor Sindh IT Initiative**, mentored personally by **Sir Zia Khan**  
+🎓 Selected among 1,500 out of 500,000+ students for Section A of Q3 in the **Governor Sindh IT Initiative** 
 🛠️ Hands-on experience building real-world projects using **Next.js**, **Tailwind CSS**, **TypeScript**, and **Sanity CMS**  
 🤖 Currently mastering **Python** and **Agentic AI** to create intelligent automation systems  
 🌱 Always improving, always building, always learning
