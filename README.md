@@ -23,16 +23,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🛋️ [Ecommerce Marketplace](https://github.com/yourusername/ecommerce-marketplace) | Hackathon project – dynamic furniture marketplace using GROQ & Sanity CMS | Next.js, Tailwind CSS, TypeScript, Sanity |
-| 📝 [Blog Website](https://github.com/yourusername/blog-site) | Single-author blog with dynamic post management & custom design | Next.js, Tailwind CSS, Sanity, GROQ |
-| 🌐 [Personal Portfolio](https://github.com/yourusername/portfolio) | My first website showcasing all projects & skills | Next.js, Tailwind CSS |
-
----
-
 ### 📫 Connect With Me
 
 - 📧 Email: **ahmedkurram1000@gmail.com**  
