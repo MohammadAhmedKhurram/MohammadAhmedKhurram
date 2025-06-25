@@ -27,7 +27,6 @@
 
 - 📧 Email: **ahmedkurram1000@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/-muhammad-ahmed/)  
-- 💻 [GitHub](https://github.com/MohammadAhmedKhurram)
 
 ---
 
