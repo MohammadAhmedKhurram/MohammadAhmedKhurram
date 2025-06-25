@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Ahmed 👋</h1>
 <p align="center">
-  🚀 Motivated Developer & Dedicated to AI | 🎯 Top 0.3% at GSIIC | 🛠️ Builder of Real-World Web Solutions  
+  🔥 Motivated Developer & Dedicated to AI | 🎯 Top 0.3% at GSIIC | 🛠️ Builder of Real-World Web Solutions  
 </p>
 
 ---
