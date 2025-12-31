@@ -25,7 +25,7 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: **ahmedkurram1000@gmail.com**  
+- 📧 Email: **ahmedkhurram1000@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/-muhammad-ahmed/)  
 
 ---
